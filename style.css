@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(255, 228, 196);
+  margin: 1em;
+  border: 10px solid rgb(253, 221, 183);
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.623) 10px 3px 3px;
+}
+
+h1 {
+  text-shadow: 5px 2px 9px rgba(255, 255, 255, 0.712);
+  font-family: "Tangerine", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+}
+ul {
+  margin: 2em;
+  text-decoration: underline;
+}
+#total-compras {
+  font-size: 1.5em;
+  margin: 1em;
+  text-align: right;
+}
